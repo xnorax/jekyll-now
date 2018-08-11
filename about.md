@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: نبذة عني
 permalink: /about/
 ---
 
-Some information about you!
+مختصة في مجال تطوير التطبيقات. عملت في القطاع الحكومي وفي كبرى الشركات العالمية كمطورة للتطبيقات و ممكنة للمطورين، ودربت أكثر من ٣٠٠ شخص في مجال التطوير في السعودية.
 
-### More Information
+### سلسلة مقالات التعلم العميق
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- سلسلة التعلم العميق ١: مقدمة
+- سلسلة التعلم العميق٢: تصنيف زهرة السوسن
