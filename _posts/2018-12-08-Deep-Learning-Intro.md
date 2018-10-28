@@ -2,7 +2,6 @@
 layout: post
 title: التعلم العميق&#58; مقدمة
 ---
-<div dir=rtl markdown=1>
 
 الذكاء الاصطناعي يتطور كل يوم، والتعلم العميق هو أحد العوامل المساهمة في هذا التطور. فمن هذا المنطلق، تهدف هذه المقالة إلى التعريف بأساسيات التعلم العميق. فسنبدأ بالتعريف بأهم المصطلحات والعوامل المؤثرة في بناء نماذج التعلم العميق، وفي المقال القادم سوف نطبق هذه النماذج برمجياً على بيانات مختلفة.
 
@@ -56,14 +55,6 @@ aW1+b
 
 # دالة التفعيل
 حتى تتم ترجمة المدخلات إلى مخرجات، يتم تطبيق دالة تفعيل على المعادلة السابقة.
-
-
-
-In the below diagram we have “n” inputs given as X1 to Xn and corresponding weights Wk1 to Wkn. We have a bias given as bk. The weights are first multiplied to its corresponding input and are then added together along with the bias. Let this be called as u.
-
-u=∑w*x+b
-
-
 
 في الرسم البياني أدناه لدينا مدخلات من X1 إلى Xn، يتم ضرب كل مدخل بالوزن المقابل له من Wk1 إلى Wkn. وفي الأخير، يتم إضافة العدد الثابت BK لكل ناتج. ثم يتم حساب مجموع هذه النواتج ولنرمز له بالحرف u.
 u=∑w*x+b  
